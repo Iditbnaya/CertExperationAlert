@@ -1,7 +1,7 @@
 #@iditbnaya
 <#this script is a PS script running in jenkins when $srvPassword and SrvUser are imported in the Bindings
   This Job will send an email when a certificate is about to be expired in 30 days
-  Note - In order to see the certificate it needs to be installed in the HMC-Safes Server under - MMC-certificate-computer-personal
+  Note - In order to see the certificate it needs to be installed in the certificate Server under - MMC-certificate-computer-personal
   
 #> 
 
